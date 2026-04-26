@@ -38,7 +38,7 @@ amazon-india-ecommerce-analysis/
 │   └── Amazon India E-Commerce Sales Analysis.sql
 ├── Visualizations/
 │   ├── category_revenue.png
-│   ├── monthly_trend.png
+│   ├── category_monthly_bars.png
 │   ├── order_status.png
 │   ├── fulfilment_comparison.png
 │   ├── b2b_vs_b2c.png
