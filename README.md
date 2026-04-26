@@ -141,7 +141,10 @@ Bengaluru dominates Karnataka (₹6.73L), Hyderabad dominates Telangana (₹5.06
 ## 👤 Author
 **Abhishek Sohal**
 Mechanical Engineering Student | Punjab Engineering College
-[GitHub](https://github.com/AbhishekSohal) | [Tableau Public](https://public.tableau.com/app/profile/abhishek.sohal)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sohal-94666b307/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekSohal)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/abhishek.sohal)          
 
 
 
