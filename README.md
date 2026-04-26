@@ -25,6 +25,8 @@ This project analyzes **128,975 Amazon India orders** across April–June 2022 t
 ---
 
 ## 📁 Project Structure
+
+```
 amazon-india-ecommerce-analysis/
 │
 ├── Dashboard/
@@ -43,7 +45,8 @@ amazon-india-ecommerce-analysis/
 │   ├── size_category_heatmap.png
 │   └── cancellation_by_category.png
 └── README.md
----
+
+```
 
 ## 📂 Dataset
 - **Source:** [Kaggle — Unlock Profits with E-Commerce Sales Data](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)
