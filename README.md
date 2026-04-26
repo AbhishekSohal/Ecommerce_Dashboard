@@ -120,7 +120,7 @@ Bengaluru dominates Karnataka (₹6.73L), Hyderabad dominates Telangana (₹5.06
 
 1. **Expand FBA fulfilment** — Amazon-fulfilled orders cancel 4.68% less than merchant-fulfilled. Sellers should move more inventory to FBA to improve delivery reliability.
 
-2. **Focus on Maharashtra and Karnataka** — These two states alone contribute 30%+ of total revenue. Targeted marketing and faster delivery in these states would have maximum impact.
+2. **Focus on Maharashtra and Karnataka** — These two states alone contribute 28%+ of total revenue. Targeted marketing and faster delivery in these states would have maximum impact.
 
 3. **Invest in Set category** — Sets generate 2x the revenue of Kurtas despite similar order volumes. Premium bundled products have higher perceived value and should be promoted.
 
