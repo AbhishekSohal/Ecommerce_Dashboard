@@ -69,10 +69,10 @@ amazon-india-ecommerce-analysis/
 ## 🔍 Key SQL Insights
 
 **1. Revenue by Category**
-Sets dominate with ₹3.57Cr revenue despite equal order count with Kurtas — indicating higher average order value per Set purchase.
+Sets dominate with ₹3.50Cr revenue despite equal order count with Kurtas — indicating higher average order value per Set purchase.
 
 **2. Top States by Revenue**
-Maharashtra leads with ₹1.22Cr followed by Karnataka (₹0.96Cr). Top 5 states account for 65%+ of total revenue.
+Maharashtra leads with ₹1.20Cr followed by Karnataka (₹0.96Cr). Top 5 states account for 50%+ of total revenue.
 
 **3. Order Status Distribution**
 14.21% cancellation rate across all orders. 82.6% of orders are successfully shipped or delivered.
