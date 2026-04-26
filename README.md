@@ -97,7 +97,7 @@ Bengaluru dominates Karnataka (₹6.73L), Hyderabad dominates Telangana (₹5.06
 ![Category Revenue](Visualizations/category_revenue.png)
 
 ### Monthly Revenue Trend by Category
-![Monthly Trend](Visualizations/Visualizations/category_monthly_bars.png.png)
+![category_monthly_bars](Visualizations/Visualizations/category_monthly_bars.png)
 
 ### Order Status Distribution
 ![Order Status](Visualizations/order_status.png)
